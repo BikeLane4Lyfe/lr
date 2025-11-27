@@ -5,7 +5,7 @@
       "shift",
       "shift_proxy"
     ],
-    "Hashes": []
+    "Hashes": null
   },
   "Directories": [
     "%UserProfile%\\AppData\\Local\\Shift",
@@ -15,14 +15,14 @@
     "ShiftAutoLaunch_*"
   ],
   "ScheduledTasks": {
+    "ActionPatterns": null,
     "NamePatterns": [
       "ShiftLaunchTask"
-    ],
-    "ActionPatterns": []
+    ]
   },
   "RegistryItems": [],
   "InstalledPrograms": {
-    "NamePatterns": [],
-    "MsiGuids": []
+    "MsiGuids": null,
+    "NamePatterns": null
   }
 }
