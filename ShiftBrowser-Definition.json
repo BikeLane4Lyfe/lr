@@ -1,0 +1,28 @@
+{
+  "AppName": "ShiftBrowser",
+  "Processes": {
+    "Names": [
+      "shift",
+      "shift_proxy"
+    ],
+    "Hashes": null
+  },
+  "Directories": [
+    "%UserProfile%\\AppData\\Local\\Shift",
+    "%UserProfile%\\AppData\\Local\\Programs\\Shift"
+  ],
+  "StartupCommandPatterns": [
+    "ShiftAutoLaunch_*"
+  ],
+  "ScheduledTasks": {
+    "NamePatterns": [
+      "ShiftLaunchTask"
+    ],
+    "ActionPatterns": null
+  },
+  "RegistryItems": [],
+  "InstalledPrograms": {
+    "NamePatterns": null,
+    "MsiGuids": null
+  }
+}
