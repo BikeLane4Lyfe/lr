@@ -12,12 +12,12 @@
     "%UserProfile%\\AppData\\Local\\Programs\\Shift"
   ],
   "StartupCommandPatterns": [
-    "ShiftAutoLaunch_*"
+    "*shift.exe*"
   ],
   "ScheduledTasks": {
     "ActionPatterns": null,
     "NamePatterns": [
-      "ShiftLaunchTask"
+      "*ShiftLaunchTask*"
     ]
   },
   "RegistryItems": [],
