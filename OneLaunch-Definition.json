@@ -1,0 +1,26 @@
+{
+  "AppName": "OneLaunch",
+  "Processes": {
+    "Names": [
+      "onelaunch",
+      "onelaunchtray"
+    ],
+    "Hashes": null
+  },
+  "Directories": [
+    "%UserProfile%\\AppData\\Local\\OneLaunch"
+  ],
+  "StartupCommandPatterns": [
+    "*onelaunch.exe*",
+    "*onelaunch*"
+  ],
+  "ScheduledTasks": {
+    "NamePatterns": null,
+    "ActionPatterns": null
+  },
+  "RegistryItems": [],
+  "InstalledPrograms": {
+    "NamePatterns": null,
+    "MsiGuids": null
+  }
+}
