@@ -1,0 +1,22 @@
+{
+  "AppName": "ConvertMate",
+  "Processes": {
+    "Hashes": null,
+    "Names": [
+      "Convert Mate"
+    ]
+  },
+  "Directories": [
+    "%UserProfile%\\AppData\\Local\\ConvertMate"
+  ],
+  "StartupCommandPatterns": null,
+  "ScheduledTasks": {
+    "ActionPatterns": null,
+    "NamePatterns": null
+  },
+  "RegistryItems": [],
+  "InstalledPrograms": {
+    "MsiGuids": null,
+    "NamePatterns": null
+  }
+}
