@@ -1,0 +1,34 @@
+{
+  "AppName": "ClearBrowser_Bar",
+  "Processes": {
+    "Names": [
+      "clearbar",
+      "clearbrowser",
+      "clear"
+    ],
+    "Hashes": null
+  },
+  "Directories": [
+    "%UserProfile%\\AppData\\Local\\Clear",
+    "%UserProfile%\\AppData\\Local\\Programs\\Clear",
+    "%UserProfile%\\AppData\\Local\\Programs\\ClearBrowser",
+    "%UserProfile%\\AppData\\Local\\Programs\\ClearBar"
+  ],
+  "StartupCommandPatterns": [
+    "*clearbar*",
+    "*clearbrowser*",
+    "*clear.exe*"
+  ],
+  "ScheduledTasks": {
+    "ActionPatterns": null,
+    "NamePatterns": [
+      "*ClearStartAtLogin*",
+      "*ClearUpdateChecker*"
+    ]
+  },
+  "RegistryItems": [],
+  "InstalledPrograms": {
+    "MsiGuids": null,
+    "NamePatterns": null
+  }
+}
